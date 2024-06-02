@@ -1,0 +1,327 @@
+{
+  "products": [
+    {
+      "title": "sada",
+      "price": 345,
+      "description": "sad",
+      "id": 7
+    },
+    {
+      "title": "ads",
+      "price": 908,
+      "description": "sdff",
+      "id": 8
+    },
+    {
+      "title": "sad",
+      "price": 9,
+      "description": "sada",
+      "id": 9
+    },
+    {
+      "title": "sad",
+      "price": 43,
+      "description": "sad",
+      "id": 10
+    },
+    {
+      "title": "sad",
+      "price": 432,
+      "description": "dsad",
+      "id": 11
+    },
+    {
+      "title": "sadasd",
+      "price": 423,
+      "description": "đá",
+      "id": 12
+    },
+    {
+      "title": "dsd",
+      "price": 345,
+      "description": "ád",
+      "id": 13
+    },
+    {
+      "title": "sadasd",
+      "price": 5345,
+      "description": "ád",
+      "id": 14
+    },
+    {
+      "title": "afsaf",
+      "price": 5345,
+      "description": "à",
+      "id": 15
+    },
+    {
+      "title": "sadad",
+      "price": 8,
+      "description": "a",
+      "id": 16
+    }
+  ],
+  "users": [
+    {
+      "email": "Doduchuy1952000@gmail.com",
+      "password": "$2a$10$qcoH815hVQ4N138maj3D5u5wtX1ctoK1dBeF5hJeQFUcUZIPcuQT2",
+      "id": 1
+    },
+    {
+      "email": "Doduchuy195200@gmail.com",
+      "password": "$2a$10$4YrWKJLTBBGB4jeJZEt3j.c85ipbiV2f7EDpZuXcytbArF2UH8gEG",
+      "id": 2
+    },
+    {
+      "email": "sad@da",
+      "password": "$2a$10$M4XZ5lIHDFkhjB7IJm9H3uwYguYM2nntpaWsgTnkwKm2nt6ORlsgq",
+      "fullName": "asdda",
+      "id": 3
+    },
+    {
+      "email": "doduchuy@gmail.com",
+      "password": "$2a$10$AcsMYuYPO.bsl0DNELOnueBvf5x2OR8nob4WUrqQgOQlZh8y0gakm",
+      "id": 4
+    },
+    {
+      "email": "saddsa@dasd",
+      "password": "$2a$10$zIxSC9fueS7lDklKNCFxI.BlMCJOfWvyyPm0tUrDrGMZAMKcrkh4q",
+      "id": 5
+    },
+    {
+      "email": "doduchuy1952004@gmail.com",
+      "password": "$2a$10$QSAISYgIvXC1MnbUbFRXV.lU.9r0Zu0phO9TC9s/7Nt3pfyLE25J.",
+      "id": 6
+    },
+    {
+      "email": "doduchuy19520000@gmail.com",
+      "password": "$2a$10$yyDgBKnvjIQN4toHsID34OtK3gKQoBf0b3vay6kD9.ha/8FL0S8HG",
+      "id": 7
+    },
+    {
+      "email": "doduchuy1952009@gmail.com",
+      "password": "$2a$10$8iUYktLRxAyEzmUhqd0ofOHrqbV6u3LTL2y5vtaEm/ceMwkh6740m",
+      "id": 8
+    },
+    {
+      "email": "0338550061@gmail.com",
+      "password": "$2a$10$NhkVk0ydBH58dav/IbyH2OfJZtADd2Y07/9y5NufIA9T4pHKZopyK",
+      "id": 9
+    },
+    {
+      "email": "dud@gmail.com",
+      "password": "$2a$10$pB9OamemTVRkFP1Q9Cem3ezAMKNd0a2ziCscgU0dW/pUtYpmw.CWW",
+      "id": 10
+    },
+    {
+      "email": "ki@gmail.com",
+      "password": "$2a$10$NLcb6SDXl60WGMuLA7IUluBfth9xXzT37jVjTNVwsgulxB/KHO0me",
+      "id": 11
+    },
+    {
+      "email": "doduchuy1@gmail.com",
+      "password": "$2a$10$dJOxeuOJrbFLHd9j9T4PmenbXf5Hr1W8tuc9ZqiK.63lNTR4.u4du",
+      "id": 12
+    },
+    {
+      "email": "y@gmail.com",
+      "password": "$2a$10$5Cl3cLlguVQoqKN.4l7SiuZYXgEWAEIpUcxHDhjR.HvIA.uaOeWPK",
+      "id": 13
+    },
+    {
+      "email": "c@a",
+      "password": "$2a$10$zidomgerFaqUcwrBxaUVBeIFhi5cWo9P8D4yA4VGSTu8LOdIx04em",
+      "id": 14
+    },
+    {
+      "email": "g@ad",
+      "password": "$2a$10$iKav80kU.k8qEZSkZih06eUNjuf.X7rA14ehTpOaA2n/bhSG8X4ce",
+      "id": 15
+    },
+    {
+      "email": "sad@r",
+      "password": "$2a$10$LbEj9aBrbhj8iV1/hG9sZOln0VEKGl/.PceRwCnpDN6mAUwQPAW6i",
+      "id": 16
+    },
+    {
+      "email": "a@a",
+      "password": "$2a$10$x3o47jqTx/GslllPVHsGZuP0/zI00rLLz59vDwQ5U8RihfvTuBIFW",
+      "id": 17
+    },
+    {
+      "email": "a@ad",
+      "password": "$2a$10$WUF8lRM4r3UbxfuWMNJuX.A9iCUJU0b.Poauz7xO1lSFp6Ec.CIBi",
+      "id": 18
+    },
+    {
+      "email": "k@a",
+      "password": "$2a$10$2uDA6S0Z7/sw0Z6KXR0WiutfxD.zxIw1yyBmETFd1SfVKeK9iRJBC",
+      "id": 19
+    },
+    {
+      "email": "F@a",
+      "password": "$2a$10$og/2fSyRkbOcbW8Iy2hFDuhUeRhKVm0N2D7jfyS9JDDcnsV/g6i7O",
+      "id": 20
+    },
+    {
+      "email": "f@hh",
+      "password": "$2a$10$VJnwcTdtfUhGLmmCnwKPq..Um6ZhCSc8GOPZzgzrWLcGYKWYIUlTi",
+      "id": 21
+    },
+    {
+      "email": "f@yuuu",
+      "password": "$2a$10$qDsM9FEuqBGX3m6jTB0M9eNS8ErTqLyK/t5Kwafaz6RY3isDUnVVC",
+      "id": 22
+    },
+    {
+      "email": "k@ll",
+      "password": "$2a$10$aREW/XYnEEDjkzl3TpU5deNF7PLfI444x6BrakAGIaLciXHN1bYc6",
+      "id": 23
+    },
+    {
+      "email": "o@u",
+      "password": "$2a$10$97fiRPdLPxiLQz0IK7OlK.vrnO38brY2ppLjFmW2TlYnWXCoWQR6S",
+      "id": 24
+    },
+    {
+      "email": "v@a",
+      "password": "$2a$10$WuUvOXJfPAvTlCc2G9FReO0FDwK6Zst7QY3WPv7FIyj4mPUuy9D4i",
+      "id": 25
+    },
+    {
+      "email": "l@a",
+      "password": "$2a$10$4jpCwT0in04U5WTyjxeYSOjetQRqe4aNCTsd0dW5o2UcChWku1e5C",
+      "id": 26
+    },
+    {
+      "email": "v@aaa",
+      "password": "$2a$10$9.thkdVaAJWLWzUgEEjIuOcYvVa0at0w5NrrShTVvxLD7dI8PDUiC",
+      "id": 27
+    },
+    {
+      "email": "a@2a",
+      "password": "$2a$10$BBvl6kN38nViHsOrhUkrCOJVzww1wpxIRczSejmxX3QVSmaxSU1ke",
+      "id": 28
+    },
+    {
+      "email": "a@tt",
+      "password": "$2a$10$z8Zewgeq74ZQjC3Rs8xErex03hmC2NR.RwCJsVG.uWilmVuuV9TIG",
+      "id": 29
+    },
+    {
+      "email": "a@g",
+      "password": "$2a$10$o4a9TAxSaNxx0eTGMyMU2OmBB7Kw0AIm.xgLg1sKfnLqee0ahfkAm",
+      "id": 30
+    },
+    {
+      "email": "a%@aa",
+      "password": "$2a$10$q5mgZAbtxOGdUBq/4f6a/e2Wv77ls0tKokMKNm4cNJBO3oqxRKXo.",
+      "id": 31
+    },
+    {
+      "email": "a@ggg",
+      "password": "$2a$10$9PhOJDfP8oO3OEgD5t7dHeL.AsRP97sYQynlVtUtZBXisS1aeaKfK",
+      "id": 32
+    },
+    {
+      "email": "y@y",
+      "password": "$2a$10$bGngC4lzCoaC9hW9v7VpZe3xIBqE4k3bYct4I8W/TPKbkiT1qMgum",
+      "id": 33
+    },
+    {
+      "email": "a@fff",
+      "password": "$2a$10$utmq7nIOZPjXBVf6HdGk7OYyRzy0BT3P09BJ.BMFP.XMd5BPPmLjO",
+      "id": 34
+    },
+    {
+      "email": "a@f",
+      "password": "$2a$10$BQE9IXJ8RX1IuqRe7x70eeiFB7DA1hFi5hR0MS19tu9DloUVstkoC",
+      "id": 35
+    },
+    {
+      "email": "a@gf",
+      "password": "$2a$10$ni.qKTHYWmDftn3UoTvcG.Qm2FA7U0Z0SOawW8TtVJX3YtjMYHr1q",
+      "id": 36
+    },
+    {
+      "email": "a@aaaa",
+      "password": "$2a$10$6KNADs3WGHjK4HP8RDmhVefTvGO9pKvAEtBfcRNslazKepSSNwGMS",
+      "id": 37
+    },
+    {
+      "email": "a@GGG",
+      "password": "$2a$10$4X6zamC8wyG9qNnpuIATHugTrhAAazm7CUuEx52S2g26mK.XRs3c6",
+      "id": 38
+    },
+    {
+      "email": "a@aa",
+      "password": "$2a$10$mXIWJzGaIgczDPQt2EY4j.Xs61UblGOfYW.GBxRibsYSuXOHo/c9W",
+      "id": 39
+    },
+    {
+      "email": "a@gggg",
+      "password": "$2a$10$.ESw.6t2WPYKO2VCpCTow.pfoIjYWXUXccxrKQKmshwziOXNUxOGy",
+      "id": 40
+    },
+    {
+      "email": "a@aaaaaa",
+      "password": "$2a$10$ypobKSwdEIh/Pnqmae7igOSJFQC/NkuU2zMF.ktauckHc97139ovm",
+      "id": 41
+    },
+    {
+      "email": "f@aaa",
+      "password": "$2a$10$78CuKswUp87c2VyfC4Iod.JQd/CtElWlvP6TbA.hnwfYYs9sRbGIu",
+      "id": 42
+    },
+    {
+      "email": "a@aaaff",
+      "password": "$2a$10$Srd8LqGj88M9ENdkUC.FBebbrFjzjHM09QX4iiy9ZTIjtKqS3CjfK",
+      "id": 43
+    },
+    {
+      "email": "do004@gmail.com",
+      "password": "$2a$10$d9CRlEQqUzTNsxQI6f2seuHUA6Y.Gs2relalj9w4AQx.kpGoGDAz6",
+      "id": 44
+    },
+    {
+      "email": "Doduchuy195@gmail.com",
+      "password": "$2a$10$6v8A4u8svAvh.Y1KgGNAq.NuGHz0V3roTr15kST8gXmSQKRAF7RHi",
+      "id": 45
+    },
+    {
+      "email": "doduchuy111@gmail.com",
+      "password": "$2a$10$0nC/IK./QxVksErZrvzi2uX0J7qG7G.cFx.7CKablRfZHxawVacNG",
+      "id": 46
+    },
+    {
+      "email": "j@aa",
+      "password": "$2a$10$.XlWA3Mqo/FFwaYUYA95te/BEKTx1Yejsl5MFgQ8j/XRLyjdDD56.",
+      "id": 47
+    },
+    {
+      "email": "l@af",
+      "password": "$2a$10$aWnxHmRFpxnL0DtW4Q.R7epJ.i9CF3NUiM3oKXki0lPdgLPwFrEDq",
+      "id": 48
+    },
+    {
+      "email": "huydd@gamil.com",
+      "password": "$2a$10$3aUQbLbYayQWasdtPvv2YunU9MKGahrFLx1CnV7rgWvKILL2Gb2ma",
+      "id": 49
+    },
+    {
+      "email": "u@a",
+      "password": "$2a$10$eZTI2s85q0C2uNeeTEkEyOyKTDw8yow2zKN3hivqBBydqo54tYvH6",
+      "id": 50
+    },
+    {
+      "email": "huytd@122",
+      "password": "$2a$10$4Al0UfA9pIfzY/oNG05/4OvLLUo/Q8lMd7E3zcx7LnVXPqrJTQS6u",
+      "id": 51
+    },
+    {
+      "email": "a@Kkk",
+      "password": "$2a$10$.zOQiOh.YOpRhMIqpAlIf.blIwTT0m5XNWle4E/XLDWVaBf/l1hF2",
+      "id": 52
+    }
+  ]
+}

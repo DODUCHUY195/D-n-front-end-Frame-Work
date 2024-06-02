@@ -1,0 +1,13 @@
+<header>
+    <h1>Admin Dashboard</h1>
+</header>
+<nav>
+    <ul>
+        <li><a [routerLink]="['/admin']">Dashboard</a></li>
+        <li><a [routerLink]="['/products-add']">ProductList</a></li>
+      <li><a [routerLink]="['/list-users']">List Users</a></li>
+        <li><button *ngIf="isLoggedIn" (click)="logout()">Logout</button></li>
+    </ul>
+</nav>
+
+
